@@ -1,0 +1,23 @@
+body{
+    background-image:url(signup.svg);
+    background-size:cover;                      
+    background-repeat:no-repeat;
+    background-position:center center;
+}
+h1{
+    color:white;
+}
+#box{
+    background-color: white;
+    margin-left:500;
+    margin-top:60px;
+    width:410px;
+    border:2px solid #181616;
+    padding:50px;
+    font-size: large;
+}
+a:href {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+  }

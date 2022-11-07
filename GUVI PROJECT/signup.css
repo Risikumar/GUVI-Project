@@ -1,0 +1,36 @@
+
+body{
+    background-image:url(signup.svg);
+    background-size:cover;                      
+    background-repeat:no-repeat;
+    background-position:center center;
+}
+    #tops{
+        margin-top:5px;
+    }
+    #box{
+        background-color: white;
+        margin-left:500;
+        margin-top:60px;
+        width:410px;
+        border:2px solid black;
+        padding:50px;
+        font-size: large;
+    }
+    #sub{
+        margin-top:20px;
+        margin-left:100px; 
+    }
+
+h1{
+    color:white;
+}
+
+    fieldset{
+        color:white;
+        text-align: center;
+        text-decoration: none;
+        
+
+    }
+
